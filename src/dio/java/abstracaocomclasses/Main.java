@@ -1,4 +1,4 @@
-package dio.java.abstracaocomclasses.exercicios.pets;
+package dio.java.abstracaocomclasses;
 
 import java.util.Scanner;
 
