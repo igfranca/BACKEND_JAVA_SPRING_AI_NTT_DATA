@@ -1,4 +1,4 @@
-package dio.java.interfaces;
+package dio.java.interfaces.inter1;
 
 public interface VideoPlayer {
 
